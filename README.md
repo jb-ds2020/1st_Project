@@ -6,7 +6,7 @@ This project includes work with the complete data science lifecycle on a dataset
 ![Map of King County](figures/king_county.png)
 
 This repository includes all relevant data:
-- Jupiter notebook with all steps of the data science lifecycle [](First_Project_King_County_Housing_Prices.ipynb)
+- Jupiter notebook with all steps of the data science lifecycle [Link](First_Project_King_County_Housing_Prices.ipynb)
 - Slides of the Presentation as PDF (-> Link)
 - under figures the ouput figures are stored 
 - under raw data the original dataset and the column description is stored
