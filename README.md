@@ -5,13 +5,15 @@ This project includes work with the complete data science lifecycle on a dataset
 
 ![Map of King County](figures/king_county.png)
 
-This repository includes all relevant data:
-- Jupiter notebook with all steps of the data science lifecycle [Link](First_Project_King_County_Housing_Prices.ipynb)
-- Slides of the Presentation as PDF (-> Link)
-- under figures the ouput figures are stored 
-- under raw data the original dataset and the column description is stored
+This repository includes the following data:
+- Jupiter notebook with all steps of the data science lifecycle [Jupyter Notebook](First_Project_King_County_Housing_Prices.ipynb)
+- Slides of the Presentation as a PDF-file [Slides](1st_Project_King_County_Houses_Slides.pdf)
+- under [figures](figures) the ouput figures are stored 
+- under [rawdata](rawdata) the original dataset and the column description are stored
 
-The project consists mainly on EDA (Exploratory Data Analysis) but the whole Data Science lifecycle is done in this projec. These steps are summed up in the following:
+The online presentation on GSlides id [here](https://docs.google.com/presentation/d/1chOp8RtzKma1fxankIJmB3cIftoIgIjdNbuErxfaEFQ/edit?usp=sharing)
+
+The focus of this project is mainly on EDA (Exploratory Data Analysis), but during the project all steps of the data science lifecycle are conducted. These steps are summed up in the following:
 
 ## Business Understanding
 - What is the objective of this project?
@@ -35,6 +37,7 @@ Visually analyze your data by using:
 
 ## Feature Engineering
 Select important features and develop new and more meaningful data.
+In this project new features regarding the age, distance to Seattle and renovation were developed. 
 
 ## Predictive Modelling
 Use machine algorithms to make predictions. In this case: 
